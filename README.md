@@ -5,9 +5,12 @@ About me text
 
 <h2>My Projects:</h2>
 
-- <b>[ProjectName](https://github.com/montyjamesbaker)</b> - brief description
-- <b>[ProjectName](https://github.com/montyjamesbaker)</b> - brief description
-- <b>[ProjectName](https://github.com/montyjamesbaker)</b> - brief description
+- <b>[ProjectName](https://github.com/montyjamesbaker)</b>
+image
+- <b>[ProjectName](https://github.com/montyjamesbaker)</b>
+image
+- <b>[ProjectName](https://github.com/montyjamesbaker)</b>
+image
 
 <!--
 Potential Projects to put on here:
