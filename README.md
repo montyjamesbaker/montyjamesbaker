@@ -2,15 +2,20 @@
 
 <h2>About Me</h2>
 
+<h3>Profile</h3>
+<p>A creative software developer with a passion for interactive projects, game design, and visual experiences. I enjoy building tools and prototypes that bring ideas to life while learning new techniques in graphics, simulation, and gameplay systems.</p>
+
 <h2>Software Projects:</h2>
 
-Each project has a readme with further details
+The following is a list of projects that I have written. The link are to the project's specific repository
 
-  - [Paws and Pals](https://github.com/montyjamesbaker/paws-and-pals)
-  - [Level Design](https://github.com/montyjamesbaker/level-design)
-  - [Star Map](https://github.com/montyjamesbaker/star-map)
-  - [Boids](https://github.com/montyjamesbaker/boids)
-  - [Hollow Stalls](https://github.com/montyjamesbaker/hollow-stalls)
+| Project | Description |
+| --- | --- |
+| [Paws and Pals](https://github.com/montyjamesbaker/paws-and-pals) | Interactive pet-themed project with gameplay and systems design |
+| [Level Design](https://github.com/montyjamesbaker/level-design) | Tool-focused work for building and testing game environments |
+| [Star Map](https://github.com/montyjamesbaker/star-map) | Starmap generation and navigation visualization project |
+| [Boids](https://github.com/montyjamesbaker/boids) | Flocking simulation demonstrating agent-based movement |
+| [Hollow Stalls](https://github.com/montyjamesbaker/hollow-stalls) | Creative environment project with narrative and interaction |
 
 
 <!--
