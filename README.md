@@ -9,7 +9,7 @@ About me text
 image
 - <b>[Level Design][https://github.com/montyjamesbaker/level-design]</b>
 image
-- <b>[ProjectName](https://github.com/montyjamesbaker)</b>
+- <b>[Star Map][https://github.com/montyjamesbaker/star-map]</b>
 image
 
 <!--
