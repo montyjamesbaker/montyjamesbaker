@@ -1,27 +1,18 @@
-WIP
+
 <h1>Hi, I'm Monty! </h1>
+
 <h2>About Me</h2>
-Currently studying computer game design at the [University of Gloucestershire](https://www.glos.ac.uk/courses/course/cgs-bsc-computer-games-design/)
-
-
-This site was built using [GitHub Pages](https://pages.github.com/).
+Currently studying computer game design at the University of Gloucestershire 
+  https://www.glos.ac.uk/courses/course/cgs-bsc-computer-games-design/
 
 <h2>Software Projects:</h2>
+Each project has a readme with further details
 
-- <b>Paws and Pals</b>
-  - [Repo link](https://github.com/montyjamesbaker/paws-and-pals)
-image
-- <b>Level Design</b>
-  - [https://github.com/montyjamesbaker/level-design]
-image
-- <b>Star Map</b>
-  - [https://github.com/montyjamesbaker/star-map]
-image
-- <b>Boids</b>
-  - [https://github.com/montyjamesbaker/boids]
-image
-- <b>Hollow Stalls</b>
-  - [https://github.com/montyjamesbaker/hollow-stalls]
+  - [Paws and Pals](https://github.com/montyjamesbaker/paws-and-pals)
+  - [Level Design](https://github.com/montyjamesbaker/level-design)
+  - [Star Map](https://github.com/montyjamesbaker/star-map)
+  - [Boids](https://github.com/montyjamesbaker/boids)
+  - [Hollow Stalls](https://github.com/montyjamesbaker/hollow-stalls)
 
 
 <!--
