@@ -1,11 +1,9 @@
-
-<h1>Hi, I'm Monty! </h1>
+<h1>Hi, I'm Monty!</h1>
 
 <h2>About Me</h2>
-Currently studying computer game design at the University of Gloucestershire 
-  https://www.glos.ac.uk/courses/course/cgs-bsc-computer-games-design/
 
 <h2>Software Projects:</h2>
+
 Each project has a readme with further details
 
   - [Paws and Pals](https://github.com/montyjamesbaker/paws-and-pals)
