@@ -5,7 +5,7 @@ About me text
 
 <h2>My Projects:</h2>
 
-- <b>[ProjectName](https://github.com/montyjamesbaker)</b>
+- <b>[Paws and Pals]([https://github.com/montyjamesbaker](https://github.com/montyjamesbaker/paws-and-pals)</b>
 image
 - <b>[ProjectName](https://github.com/montyjamesbaker)</b>
 image
