@@ -2,20 +2,17 @@
 
 <h2>About Me</h2>
 
-<h3>Profile</h3>
-<p>A creative software developer with a passion for interactive projects, game design, and visual experiences. I enjoy building tools and prototypes that bring ideas to life while learning new techniques in graphics, simulation, and gameplay systems.</p>
+<p>I'm a creative games programmer with a passion for making games feel good using physics, effects and more!</p>
+<p></p>I am currently studying Computer Games Programming at University of Gloucestershire!</p>
 
-<h2>Software Projects:</h2>
+<h2>My Projects:</h2>
 
-The following is a list of projects that I have written. The link are to the project's specific repository
-
-| Project | Description |
-| --- | --- |
-| [Paws and Pals](https://github.com/montyjamesbaker/paws-and-pals) | Interactive pet-themed project with gameplay and systems design |
-| [Level Design](https://github.com/montyjamesbaker/level-design) | Tool-focused work for building and testing game environments |
-| [Star Map](https://github.com/montyjamesbaker/star-map) | Starmap generation and navigation visualization project |
-| [Boids](https://github.com/montyjamesbaker/boids) | Flocking simulation demonstrating agent-based movement |
-| [Hollow Stalls](https://github.com/montyjamesbaker/hollow-stalls) | Creative environment project with narrative and interaction |
+| Project | Description | Game Engine  |
+| --- | --- | --- |
+| [Lyra Level Design](https://github.com/montyjamesbaker/montyjamesbaker) | TDM shooter level design using Lyra | Unreal Engine |
+| [Star Map Navigation Simulation](https://github.com/montyjamesbaker/star-map) | Creates procedurally generated starmaps that can be traversed with pathfinding algorithms | Unity |
+| [Boids](https://github.com/montyjamesbaker/boids) | Flocking simulation demonstrating agent-based movement | Unreal Engine |
+| [Hollow Stalls](https://github.com/montyjamesbaker/hollow-stalls) | Creative environment project with narrative and interaction | Unity |
 
 
 <!--
