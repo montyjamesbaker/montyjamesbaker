@@ -9,10 +9,10 @@
 
 | Project | Description | Game Engine  |
 | --- | --- | --- |
-| [Lyra Level Design](https://github.com/montyjamesbaker/montyjamesbaker) | TDM shooter level design using Lyra | Unreal Engine |
+| [Fragile Game Jam](https://github.com/montyjamesbaker/fragile-game-jam-2026) | Game jam made for university course | Unity |
+| [Lyra Level Design](https://github.com/montyjamesbaker/lyra-level-design) | TDM shooter level design using Lyra | Unreal Engine |
 | [Star Map Navigation Simulation](https://github.com/montyjamesbaker/star-map) | Creates procedurally generated starmaps that can be traversed with pathfinding algorithms | Unity |
 | [Boids](https://github.com/montyjamesbaker/boids) | Flocking simulation demonstrating agent-based movement | Unreal Engine |
-|   |   |   |
 
 
 <!--
