@@ -12,7 +12,7 @@
 | [Lyra Level Design](https://github.com/montyjamesbaker/montyjamesbaker) | TDM shooter level design using Lyra | Unreal Engine |
 | [Star Map Navigation Simulation](https://github.com/montyjamesbaker/star-map) | Creates procedurally generated starmaps that can be traversed with pathfinding algorithms | Unity |
 | [Boids](https://github.com/montyjamesbaker/boids) | Flocking simulation demonstrating agent-based movement | Unreal Engine |
-| [Hollow Stalls](https://github.com/montyjamesbaker/hollow-stalls) | Creative environment project with narrative and interaction | Unity |
+|   |   |   |
 
 
 <!--
